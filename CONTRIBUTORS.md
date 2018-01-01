@@ -294,3 +294,8 @@
 - Place: Rtalam, Madhya Pradesh, India
 - Bio: Anime addict
 - GitHub: [SUMIT SINGH](https://github.com/satan-nightmare)
+
+#### Name: [PRATEEK SHREYANSH](https://github.com/prateek1998)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: having learning attitude\
+- Github: [Prateek Shreyansh](https://github.com/prateek1998)
